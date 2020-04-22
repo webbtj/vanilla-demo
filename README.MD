@@ -29,6 +29,7 @@ you log in and visit the "Tokens" section.
 * Better security features (2FA)
 * A bit more effort in tidying up and refactoring a bit of code for readability
 and consistancy.
+* Full PHPDoc
 
 ## Thoughts On The Project
 
